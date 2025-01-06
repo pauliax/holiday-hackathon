@@ -27,3 +27,4 @@ https://github.com/pauliax/refugees-aid/blob/main/RefugeeAid.pdf
 ## Screenshots (Optional):
 
 ![Screenshot](https://raw.githubusercontent.com/pauliax/refugees-aid/main/screenshot.png)
+![Screenshot2](https://raw.githubusercontent.com/pauliax/refugees-aid/main/screenshot2.png)
