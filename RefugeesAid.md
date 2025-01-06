@@ -4,13 +4,13 @@ Refugees Aid
 
 ## Team Members: (Name and Lens Handle)
 
-Paulius (@paulius)
+Paulius (Lens: paulius)
 
 ## Project Description:
 
 A portal for refugees to seek and receive assistance.
 It's a decentralized web portal connecting refugees directly with kind-hearted people worldwide.
-Here users can browse, post, and respond to aid listings through an intuitive interface, fostering direct community involvement.
+Users can browse, post, and respond to aid listings through an intuitive interface, fostering direct community involvement.
 
 ## Source Code Link:
 
